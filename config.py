@@ -1,0 +1,5 @@
+# Interactive Brokers API credentials
+IB_ACCOUNT = 'YOUR_IB_ACCOUNT'
+IB_API_KEY = 'YOUR_IB_API_KEY'
+IB_API_SECRET = 'YOUR_IB_API_SECRET'
+
